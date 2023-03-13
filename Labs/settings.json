@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false, 
+    "git.enableSmartCommit": true,
+    "file.autoSave": "onFocusChange",
+    "python.pythonPath": "py"
+}
